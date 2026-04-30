@@ -128,8 +128,6 @@ Do you want to see animation? (1: yes, 0: no)
 ```
 .
 ├── project1physics.m
-├── docs/
-│   └── demo.gif
 ├── report/
 │   └── Assignment_Physics1.pdf
 └── README.md
