@@ -1,5 +1,5 @@
 # Assigmnet-General-Physics-1-HK251
-Determining Trajectory and Angular Momentum (MATLAB Physics Simulation)
+## Determining Trajectory and Angular Momentum (MATLAB Physics Simulation)
 
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-R2024a-orange?logo=mathworks" />
