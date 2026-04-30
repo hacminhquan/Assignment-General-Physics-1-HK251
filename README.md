@@ -1,4 +1,4 @@
-# BTL-General-Physics-1-HK251
+# Assigmnet-General-Physics-1-HK251
 Determining Trajectory and Angular Momentum (MATLAB Physics Simulation)
 
 <p align="center">
